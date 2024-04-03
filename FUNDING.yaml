@@ -1,0 +1,16 @@
+# These are GitHub-supported funding model platforms
+# See https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository#about-funding-files
+# They are displayed in the order they're shown
+
+ko_fi: outlyer      # A single Ko-fi username
+buy_me_a_coffee: outlyer # A single Buy Me a Coffee username
+liberapay: outlyer  # A single Liberapay username
+custom: [ 'https://paypal.me/outlyer', 'https://p.outlyer.net/tips' ] # Accepts up to 4 custom sponsorship URLs
+
+#community_bridge:  # LFX Mentorship (formerly CommunityBridge)
+#github:            # Up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
+#issuehunt:         # A single IssueHunt username
+#open_collective:   # A single Open Collective username
+#patreon:           # A single Patreon username
+#tidelift:          # A single Tidelift platform-name/package-name e.g., npm/babel
+#polar: outlyer-net # A single Polar username
